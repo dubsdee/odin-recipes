@@ -1,0 +1,11 @@
+/* basic style sheet */
+
+p {
+    /* rgb example: */
+  color: rgb(100, 0, 127);
+}
+
+img {
+    height:auto;
+    width:50px;
+}
