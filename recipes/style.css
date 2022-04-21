@@ -1,0 +1,29 @@
+/* basic style sheet */
+
+p {
+  font-size: 18px;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    height:auto;
+    width:auto;
+    align-items: center;
+}
+
+h1, h2, h3 {
+  background-color: lightgoldenrodyellow;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+ul, ol {
+  font-size: 18px;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
